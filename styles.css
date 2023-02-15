@@ -1,2 +1,19 @@
+body{
+    text-align: center;
+}
 
-/* Your CSS Code here. */
+table, th, td{
+    border: 1px solid;
+    align-items: center;
+	text-align: center;
+	
+}
+tr{
+	align-items: center;
+	text-align: center;
+}
+
+.row-css{
+    background-color: black;
+    color: white;
+}
