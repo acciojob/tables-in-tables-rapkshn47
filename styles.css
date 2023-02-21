@@ -14,7 +14,11 @@ tr{
 	text-align: center;
 }
 
+table table{
+	width: 100%; height: auto;
+}
+
 .row-css{
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     color: white;
 }
